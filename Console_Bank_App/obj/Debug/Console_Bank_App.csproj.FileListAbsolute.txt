@@ -1,0 +1,8 @@
+F:\OOP\Console_Bank_App\Console_Bank_App\bin\Debug\Console_Bank_App.exe.config
+F:\OOP\Console_Bank_App\Console_Bank_App\bin\Debug\Console_Bank_App.exe
+F:\OOP\Console_Bank_App\Console_Bank_App\bin\Debug\Console_Bank_App.pdb
+F:\OOP\Console_Bank_App\Console_Bank_App\obj\Debug\Console_Bank_App.csproj.AssemblyReference.cache
+F:\OOP\Console_Bank_App\Console_Bank_App\obj\Debug\Console_Bank_App.csproj.SuggestedBindingRedirects.cache
+F:\OOP\Console_Bank_App\Console_Bank_App\obj\Debug\Console_Bank_App.csproj.CoreCompileInputs.cache
+F:\OOP\Console_Bank_App\Console_Bank_App\obj\Debug\Console_Bank_App.exe
+F:\OOP\Console_Bank_App\Console_Bank_App\obj\Debug\Console_Bank_App.pdb
